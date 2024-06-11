@@ -4,8 +4,9 @@
 - 💞️ I’m looking to collaborate on Cloud Technologies...
 - 📫 How to reach me ...
 
-- [![GitHub followers](https://img.shields.io/github/followers/anuradhaviyer.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/anuradhaviyer?tab=followers)
-- 
+- [![Profile Views](https://visitcount.itsvg.in/api?username=anuradhaviyer&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
+ 
 - [![GitHub followers](https://img.shields.io/github/followers/anuradhaviyer?label=Followers&style=social)](https://github.com/anuradhaviyer?tab=followers)
 - [![GitHub follows](https://img.shields.io/github/followers/anuradhaviyer?label=Following&style=social)](https://github.com/anuradhaviyer?tab=following)
 
