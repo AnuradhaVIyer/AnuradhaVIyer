@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Cloud Technologies...
 - 📫 How to reach me ...
 
-- ![Visitor Count](https://profile-counter.glitch.me/{anuradhaviyer}/count.svg)
+- ![](https://komarev.com/ghpvc/?username=anuradhaviyer&label=Profile%20Views&color=brightgreen&style=flat)
 
  
 - [![GitHub followers](https://img.shields.io/github/followers/anuradhaviyer?label=Followers&style=social)](https://github.com/anuradhaviyer?tab=followers)
