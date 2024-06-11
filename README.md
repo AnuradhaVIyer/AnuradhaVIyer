@@ -13,10 +13,10 @@
 I'm an IT Professional with a passion for emerging technologies. I love to work on various AWS cloud projects.
 
 ## GitHub Stats
-![Anuradha's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuradhaviyer&show_icons=true&theme=dracula)
+![Anuradha's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuradhaviyer&show_icons=true&theme=radical&cache_seconds=86400)
 
 ## GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=anuradhaviyer&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=anuradhaviyer&theme=onedark&cache_seconds=86400)](https://github.com/anuradhaviyer/github-profile-trophy)
 
 ## Skills
 - **Programming Languages:** Java, JEE, Python, etc.
