@@ -10,7 +10,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/anuradhaviyer?label=Stars&style=social)
 
 ## About Me
-I'm an IT Professional with a passion for emerging technologies. I love to work on various AWS cloud projects.
+I'm an IT Professional with a passion for emerging technologies. I love to work on various AWS cloud projects. I am also a Cloud & DevOps Enthusiast | Learning Git & GitHub
 
 ## GitHub Stats
 ![Anuradha's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuradhaviyer&show_icons=true&theme=radical&cache_seconds=86400)
