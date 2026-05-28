@@ -1,33 +1,88 @@
-- 👋 Hi, I’m @AnuradhaVIyer
-- 👀 I’m interested in emmerging technologies...
-- 🌱 I’m currently learning AWS and Azure...
-- 💞️ I’m looking to collaborate on Cloud Technologies...
-- 📫 How to reach me ...
+# Hi there 👋 I'm Anuradha Iyer
 
-![Profile views](https://komarev.com/ghpvc/?username=anuradhaviyer&color=blue)
-![GitHub followers](https://img.shields.io/github/followers/anuradhaviyer?label=Followers&style=social)
-[![GitHub follows](https://img.shields.io/github/followers/anuradhaviyer?label=Following&style=social)](https://github.com/anuradhaviyer?tab=following)
-![GitHub stars](https://img.shields.io/github/stars/anuradhaviyer?label=Stars&style=social)
+<div align="center">
 
-## About Me
-I'm an IT Professional with a passion for emerging technologies. I love to work on various AWS cloud projects. I am also a Cloud & DevOps Enthusiast | Learning Git & GitHub
+### Cloud | DevOps | AI/ML | Platform Engineering
 
-## GitHub Stats
-![Anuradha's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuradhaviyer&show_icons=true&theme=radical&cache_seconds=86400)
+Building scalable cloud-native solutions, learning emerging technologies, and mentoring aspiring engineers.
 
-## GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=anuradhaviyer&theme=onedark&cache_seconds=86400)](https://github.com/anuradhaviyer/github-profile-trophy)
+</div>
 
-## Skills
-- **Programming Languages:** Java, JEE, Python, etc.
-- **Frameworks and Libraries:** HTML5, CSS5, JavaScript, etc.
-- **Tools:** Git, Maven, Jenkins, Docker, etc.
-- **Cloud:** AWS, GCP, etc
+---
 
-## Projects
-- [AWS Cloud Create Admin user and set budget](https://github.com/AnuradhaVIyer/cloudprojects/tree/master/create-admin-set-budget-email): This repository contains various templates and scripts for automating tasks in a new AWS account. The template creates an administrator user, attaches the AdministratorAccess policy, and sets up a monthly cost budget with email notifications.
+## 🚀 About Me
 
-<!---
-AnuradhaVIyer/AnuradhaVIyer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌩️ Interested in **Cloud Computing, DevOps, AI/ML, and Emerging Technologies**
+- 🌱 Currently learning and building with **AWS, Azure, Kubernetes, Terraform, and Agentic AI**
+- 🤝 Looking to collaborate on **Cloud, DevOps, Infrastructure Automation, and AI projects**
+- 👩‍🏫 Co-Mentor for **DevOps Micro Internship (DMI) Cohorts**
+- 💡 Passionate about continuous learning, automation, and platform engineering
+- 📚 Exploring modern DevOps workflows with GitHub Actions, ArgoCD, Helm, and EKS
+
+---
+
+## 🛠️ Tech Stack
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+### 💻 Programming & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+---
+
+## 📌 Current Focus
+
+- 🚀 Building cloud-native and DevOps projects
+- ⚙️ Learning Kubernetes, GitOps, and platform engineering concepts
+- 🤖 Exploring AI, Agentic AI, and automation workflows
+- 📦 Working with CI/CD pipelines and infrastructure automation
+- 📖 Mentoring and collaborating with learning communities
+
+---
+
+## 🌟 Featured Interests
+
+```yaml
+Cloud Platforms:
+  - AWS
+  - Azure
+
+DevOps & Platform Engineering:
+  - Docker
+  - Kubernetes
+  - Terraform
+  - GitHub Actions
+  - ArgoCD
+  - Helm
+
+AI & Automation:
+  - AI/ML
+  - Agentic AI
+  - Automation Workflows
+```
+
+
+## 🤝 Connect With Me
+
+- 💼 LinkedIn: https://linkedin.com/in/anuradhaiyer
+
+---
+
+<div align="center">
+
+### ✨ “Always learning, always building.” ✨
+
+</div>
+
