@@ -45,7 +45,7 @@ Building scalable cloud-native solutions, learning emerging technologies, and me
 ## 📌 Current Focus
 
 - 🚀 Building cloud-native and DevOps projects
-- ⚙️ Learning Kubernetes, GitOps, and platform engineering concepts
+- ⚙️ Working in Kubernetes, GitOps, and platform engineering projects
 - 🤖 Exploring AI, Agentic AI, and automation workflows
 - 📦 Working with CI/CD pipelines and infrastructure automation
 - 📖 Mentoring and collaborating with learning communities
