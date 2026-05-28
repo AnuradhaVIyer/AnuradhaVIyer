@@ -13,7 +13,7 @@ Building scalable cloud-native solutions, learning emerging technologies, and me
 ## 🚀 About Me
 
 - 🌩️ Interested in **Cloud Computing, DevOps, AI/ML, and Emerging Technologies**
-- 🌱 Currently learning and building with **AWS, Azure, Kubernetes, Terraform, and Agentic AI**
+- 🌱 Currently building with **AWS, Azure, Kubernetes, Terraform, and Agentic AI**
 - 🤝 Looking to collaborate on **Cloud, DevOps, Infrastructure Automation, and AI projects**
 - 👩‍🏫 Co-Mentor for **DevOps Micro Internship (DMI) Cohorts**
 - 💡 Passionate about continuous learning, automation, and platform engineering
