@@ -76,7 +76,7 @@ AI & Automation:
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/anuradhaiyer
+- 💼 LinkedIn: https://linkedin.com/in/iyeranuradha
 
 ---
 
